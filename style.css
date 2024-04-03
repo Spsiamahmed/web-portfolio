@@ -1,0 +1,139 @@
+body{
+  
+font-family: "Poppins", sans-serif; 
+margin: 0%;
+  
+}
+
+h1{
+front-size:60px; 
+ 
+  
+}
+ 
+.orange-hilight{
+  color:orange;
+}
+.half-width{
+  width: 40%;
+  float:left;
+  margin-left: 7%;
+ 
+
+}
+.half-width img{
+ 
+  width:100%;
+  
+}
+.top-bannar{
+ 
+  
+  background-image:url("/images/top-banner.png");
+ 
+  background-repeat:no-repeat;
+}
+section{
+  height :2%;
+  padding-bottom:20px;
+  border:1px solid greenyellow;
+  }
+ .link-button{
+   
+  text-decoration: none;
+  background-image:linear-gradient( lightsalmon,tomato);
+  padding:12px 38px;
+  border-radius: 8px;
+  color:white;
+  font-weight:bold;
+  margin:2px 8px;
+  
+  
+  
+}
+.link-button1{
+  
+
+  
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 50px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    margin: 2px 8px;
+  
+  
+  
+  }
+
+
+section{
+  height :70%;
+  padding-bottom:500px;
+  }
+ .link-button{
+   
+  text-decoration: none;
+  background-image:linear-gradient( lightsalmon,tomato);
+  padding:12px 38px;
+  border-radius: 8px;
+  color:white;
+  font-weight:bold;
+  margin:2px 8px;
+  
+  
+  
+}
+.link-button1{
+  
+
+  
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 50px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    margin: 2px 8px;
+  
+  
+  
+  }
+
+.dream-bannar{
+ 
+
+
+  background-image: url("/images/dream-bg.png");
+
+  background-repeat: no-repeat;
+  background-position: right;
+}
+ .single-experiance{
+   
+   box-shadow: 10px 10px 40px gray;
+   border-radius: 10px;
+   height: 600px;
+   
+ }
+.experience{
+  
+  background-image:url("/images/exp-bg.png");
+  background-repeat:no-repeat;
+  background-position: left;
+  
+}
+#full-strack{
+  
+  border-left:8px solid;
+  border-color:rgb(255,135,0);
+  
+}
+#official{
+  
+  border-left:7px solid;
+  border-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe,#41dfff, #46eefa, #5ffbf1);
+  
+  border-image-slice:1;
+}
